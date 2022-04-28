@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@mojojs/core": "^0.26.0",
+    "@mojojs/dom": "^1.2.3"
+  }
+}
